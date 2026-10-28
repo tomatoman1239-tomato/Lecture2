@@ -9,5 +9,9 @@ def stop():
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     move(11.0)
+=======
+    move(14.0)
+>>>>>>> motor-dev
     stop()
